@@ -1,0 +1,26 @@
+html{
+    /* background: url("./components/basic project1/images/wether.jpg"); */
+    background-color: darkcyan;
+}
+
+.navbar1{
+    display: flex;
+    justify-content: flex-end;
+    width:100%;
+ 
+}
+.parts{
+    width: 20%;
+    margin-right: 40px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    position: relative;
+}
+
+.parts:hover{
+    color: rgb(31, 31, 255);
+}
+
+
+
